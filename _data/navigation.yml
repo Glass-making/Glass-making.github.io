@@ -3,6 +3,11 @@
 - name: 公司简介
   link: /about.html
 - name: 公司产品
-  link: /blog.html
+  link: /product.html
 - name: 企业文化
-  link: /staff.html
+  link: /culture.html
+- name: 岗位信息
+  link: /post.html
+- name: 加入我们
+  link: /join.html
+
