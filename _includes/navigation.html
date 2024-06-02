@@ -2,7 +2,6 @@
     <div class="row" style="background-color: rgba(0, 187, 255, 0.906);">
       {% for item in site.data.navigation %}
       <div class="col-md-2">
-        <img src="/img/logo.png" alt="Bootstrap" width="32" height="32">
         <h3 align="center"><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></h3>
       </div>
       {% endfor %}
