@@ -1,5 +1,5 @@
 collections:
-  authors:
+  positions:
     output: true
 
 defaults:
